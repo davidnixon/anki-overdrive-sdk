@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/steinroe/anki-overdrive-node-sdk#readme",
   "dependencies": {
+    "@abandonware/noble": "^1.9.2-14",
     "async-wait-until": "^1.2.4"
   }
 }
